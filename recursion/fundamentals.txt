@@ -1,0 +1,14 @@
+1. Make decision (Primary)
+2. To make input smaller (Secondary)
+
+Identification
+
+1. There will be some choices + decisions
+2. Whenever there is a decision recursion is a good choice to make
+3. When you design the recursive tree it will be a piece of cake
+
+
+Example:
+
+
+There is a string "abc" and we need to do something with the possible susbets are ["", ""].
