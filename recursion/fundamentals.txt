@@ -12,3 +12,13 @@ Example:
 
 
 There is a string "abc" and we need to do something with the possible susbets are ["", ""].
+
+
+1. Arr
+2. String
+3. Tree
+4. Graph
+5. Flood fill
+6. DP
+7. back Tracking
+8. Divide and conquer
